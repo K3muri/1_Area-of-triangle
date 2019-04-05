@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\bin\Debug\Area of triangle.exe.config
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\bin\Debug\Area of triangle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\bin\Debug\Area of triangle.pdb
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\obj\Debug\Area of triangle.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\obj\Debug\Area of triangle.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\obj\Debug\Area of triangle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\Area of triangle\Area of triangle\obj\Debug\Area of triangle.pdb
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\bin\Debug\Area of triangle.exe.config
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\bin\Debug\Area of triangle.exe
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\bin\Debug\Area of triangle.pdb
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\obj\Debug\Area of triangle.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\obj\Debug\Area of triangle.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\obj\Debug\Area of triangle.exe
+C:\Users\KEMURI\Desktop\the hub\Area of triangle\Area of triangle\obj\Debug\Area of triangle.pdb
